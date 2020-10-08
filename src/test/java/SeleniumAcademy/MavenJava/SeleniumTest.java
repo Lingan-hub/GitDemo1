@@ -14,4 +14,8 @@ public class SeleniumTest
 	{
 		System.out.println("WebApplicationTest");
 	}
+	public void WebApplicationTest1()
+	{
+		System.out.println("WebApplicationTest1");
+	}
 }
