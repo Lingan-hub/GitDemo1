@@ -14,5 +14,10 @@ public class AppiumTest
 	{
 		System.out.println("MobileApplication");
 	}
-
+	@Test
+	public void WEBApplication()
+	{
+		System.out.println("WEBApplication");
+	}
+	
 }
