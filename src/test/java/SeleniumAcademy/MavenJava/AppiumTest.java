@@ -14,5 +14,7 @@ public class AppiumTest
 	{
 		System.out.println("MobileApplication");
 		System.out.println("All Applications");
+		System.out.println("All Applications2");
+		System.out.println("All Applications3");
 	}
 }
