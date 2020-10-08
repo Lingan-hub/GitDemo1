@@ -13,6 +13,7 @@ public class AppiumTest
 	public void MobileApplication()
 	{
 		System.out.println("MobileApplication");
+		System.out.println("All Applications");
 	}
 
 }
